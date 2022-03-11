@@ -1,1 +1,1 @@
-# discordjs-economy/website
+# discordjs-twitch/website
